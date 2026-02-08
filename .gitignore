@@ -8,4 +8,5 @@ cmd/functional-test/functional-test
 cmd/functional-test/dnsx
 cmd/functional-test/log.txt
 cmd/functional-test/*.cfg
-.vscode/
+config.bat
+node_modules
